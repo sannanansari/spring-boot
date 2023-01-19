@@ -1,3 +1,5 @@
 # Enable auto-env through the sdkman_auto_env config
 # Add key=value pairs of SDKs to use below
-java=17.0.5-librca
+java-8=8u362-librca
+java-17=17.0.5-librca
+java-19=19.0.1-librca
