@@ -2,6 +2,9 @@
 set -e
 
 case "$1" in
+	java8)
+		 echo "https://github.com/bell-sw/Liberica/releases/download/8u362+9/bellsoft-jdk8u362+9-linux-amd64.tar.gz"
+	;;
 	java17)
 		 echo "https://github.com/bell-sw/Liberica/releases/download/17.0.5+8/bellsoft-jdk17.0.5+8-linux-amd64.tar.gz"
 	;;
